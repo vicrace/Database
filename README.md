@@ -1,4 +1,4 @@
-# Databases - Food Sales System
+# Databases - Food Sales Company
 
 This repository contains the work for database design and implementation. The system is designed for a company appointed as a stockist to manage and recruit sales agents and dropships. It is designed to streamline the sales process and efficiently manage inventory, orders, and commission payments. It includes queries to extract critical information for effective management and decision-making.
 
