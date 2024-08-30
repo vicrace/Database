@@ -1,6 +1,6 @@
 # Databases - Food Sales System
 
-This repository contains my database assignment (Jan 2020). The system is designed for a company appointed as a stockist to manage and recruit sales agents and dropships. It is designed to streamline the sales process and efficiently manage inventory, orders, and commission payments. It includes queries to extract critical information for effective management and decision-making.
+This repository contains the work for database design and implementation. The system is designed for a company appointed as a stockist to manage and recruit sales agents and dropships. It is designed to streamline the sales process and efficiently manage inventory, orders, and commission payments. It includes queries to extract critical information for effective management and decision-making.
 
 This assignment involved **(1) designing a database**, **(2) implementing flow control and logic design using Oracle**, and **(3) producing queries to extract useful information for use** . 
 
